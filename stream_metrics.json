@@ -1,0 +1,14 @@
+{
+  "Star Wars": {
+    "type": "franchise",
+    "edit_count": 17,
+    "unique_editors": 14,
+    "last_edit": "2025-12-19T11:22:30.053Z"
+  },
+  "Science fiction": {
+    "type": "genre",
+    "edit_count": 12,
+    "unique_editors": 8,
+    "last_edit": "2025-12-19T12:36:05.067Z"
+  }
+}

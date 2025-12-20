@@ -1,0 +1,32 @@
+[
+  {
+    "entity": "Star Wars",
+    "type": "franchise",
+    "edit_count": 5,
+    "timestamp": "2025-12-19T01:21:10.512Z"
+  },
+  {
+    "entity": "Science fiction",
+    "type": "genre",
+    "edit_count": 5,
+    "timestamp": "2025-12-19T03:20:18.911Z"
+  },
+  {
+    "entity": "Star Wars",
+    "type": "franchise",
+    "edit_count": 10,
+    "timestamp": "2025-12-19T04:21:56.781Z"
+  },
+  {
+    "entity": "Science fiction",
+    "type": "genre",
+    "edit_count": 10,
+    "timestamp": "2025-12-19T06:16:11.905Z"
+  },
+  {
+    "entity": "Star Wars",
+    "type": "franchise",
+    "edit_count": 15,
+    "timestamp": "2025-12-19T07:34:18.113Z"
+  }
+]
